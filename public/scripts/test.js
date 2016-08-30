@@ -1,4 +1,3 @@
-/*
 var TextNode = React.createClass({
   handleChange: function(prop) {
     console.dir(prop);
@@ -14,7 +13,6 @@ var TextNode = React.createClass({
     )
   }
 });
-*/
 
 var SelectNode = React.createClass({
   render: function () {
